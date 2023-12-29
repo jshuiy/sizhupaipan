@@ -70,7 +70,7 @@ if len(input_list) >= 4:
         host="localhost",
         user="root",
         password="password",
-        database="sampledb"
+        database="bazi"
     )
 
     # 获取游标
